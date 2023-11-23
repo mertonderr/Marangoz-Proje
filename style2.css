@@ -1,0 +1,1248 @@
+.navbar{
+    background-color: #262626;
+}
+.collapse{
+    margin-left: 25rem;
+}
+.navbar-nav .nav-link {
+    color: white;
+  }
+
+  .nav-link{
+    margin-right:0.7rem;    
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: rgb(0, 217, 255);
+}
+.navbar-toggler-icon span {
+    background-color: white;
+    background-image: none;
+  }
+  .d-block{
+    height: 480px;
+  }
+  .d-blockk{
+    height: 440px;
+  }
+  img{
+    transition:transform 0.25s ease;
+}
+img:hover {
+    -webkit-transform:scale(1.5); 
+    transform:scale(1.7);
+}
+
+.image:hover{
+  transform: none; 
+}
+.d-block:hover{
+  transform: none; 
+}
+.d-blockk:hover{
+  transform: none; 
+}
+.text{
+  margin-left: 7rem;
+  margin-top: 7rem;
+ }
+ .mert{
+  margin-top: 3rem;
+  margin-left: -5rem;
+ }
+
+
+
+@media (max-width: 768px) {
+  
+      .image{
+        width: 50%;
+            }
+      .nav-link{
+         color:white;
+            }
+            .nav-link{
+              margin-left: -24rem;
+              margin-right: 0.1rem;
+            }  
+      .navbar-toggler-icon {
+        background-color: white;
+        background-image: none;
+      }
+      .navbar-brand .main-logo {
+        height: 35px;
+        display: block;
+      }
+      .mert{
+      margin-left: -8rem;
+      }
+       .models{
+        margin-left: -8rem;
+        width: 95%;
+        height: 300px;
+       }
+       .textt{
+        margin-left: -30rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;  
+      }
+       .models3{
+        margin-top: -15rem;
+        margin-left: -8rem;
+        width: 95%;
+        height: 300px;
+       }
+       .texttt{
+        margin-left: -27rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;  
+      }
+      .navbar .nav-link{
+        color: white;
+      }
+      #adres2{
+        margin-left: 1rem;
+        margin-top: -7rem;
+      }
+      #telefon2{
+        margin-left: 1rem;
+        margin-top: 1rem;
+      }
+      #carouselExample{
+        margin-left: 4.2rem;
+      }
+      .d-blockk{
+        max-width: 100%;
+        max-height: 117px; 
+}
+.image1{
+  height: 200px;
+  width: 80%;
+}
+.image2{
+  height: 200px;
+  width: 80%;
+
+}
+.image3{
+  height: 200px;
+  width: 80%;
+  margin-left: -5rem;
+}
+.image4{
+  height: 200px;
+  width: 75%;
+  margin-left: 19rem;
+}
+}
+
+
+
+.models1{
+  margin-left: 12rem;
+  margin-top:6rem;
+  height: 70px;
+  width: 75%;
+  background-color: black;
+  opacity: .6;
+}
+.models2{
+  margin-left: 12rem;
+  margin-top:3rem;
+  height: 70px;
+  width: 75%;
+  background-color: black;
+  opacity: .6;
+}
+.text2{
+  padding: 1.3rem;
+  color: rgb(150, 179, 8);
+  margin-left: 30rem;
+}
+.text3{
+  padding: 1.3rem;
+  color: rgb(150, 179, 8);
+  margin-left: 26rem;
+}
+.img5{
+  margin-top: 5rem;
+  height: 300px;
+  width: 10%;
+  margin-left: 25rem;
+}
+.adres{
+  margin-top: 8rem;
+  margin-left: 30rem;
+  display: flex;
+}
+.carousel{
+  width: 70%;
+  margin-left: 14rem;
+  margin-top: 5rem;
+}
+.d-blockk{
+  height: 480px;
+}
+
+.telefon{
+  margin-left: 10rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.image1{
+  height: 200px;
+  margin-top: 7rem;
+  margin-left: 2.5rem;
+}  
+.image2{
+  height: 200px;
+  margin-top: 5rem;
+  margin-left: 2rem;
+  min-width: 30%;
+}  
+.image3{
+  height: 200px;
+  margin-top: 5rem;
+  margin-left: 3rem;
+  min-width: 30%; 
+}
+.image4{
+  height: 200px;
+  margin-top: 5rem;
+  margin-left: 2rem;
+  width: 30%; 
+}
+.image7{
+  height: 200px;
+  margin-top: 5rem;
+  margin-left: 2rem;
+  width: 30%;
+
+}
+.image5{
+  height: 200px;
+  margin-top: 5rem;
+  margin-left: 3rem;
+  width: 30%; 
+} 
+.hakkimizda{
+  margin-top: 5rem;
+  margin-left: 1rem;
+}
+.certificate{
+   height: 200px; 
+  margin-top: 4rem;
+  margin-left: 42rem;
+}
+@media (max-width: 768px) {
+  .text3{
+    margin-top: -.8rem;
+    margin-left: 28rem;
+  }
+  .images {
+    display: block;
+  }
+  .image1,
+  .image2,
+  .image3,
+  .image4 {
+    width: 80%; 
+    margin-bottom: 10px;
+  }
+  .image4{
+    margin-left: 2rem;
+  }
+  .image7{
+    width: 80%;
+  }
+  .image3{
+    margin-left: 1.7rem;
+  }
+  .image5{
+    width: 80%;
+    margin-left: 1.7rem;
+  }
+  .image12,.image13{
+    width: 70%;
+  }
+  .image13{
+    width: 75%;
+    margin-left: 4vw;
+    }
+  .image15{
+        height: 250px; /* Mobilde istediğiniz boyut */
+        width: 75%;   /* Genişlik otomatik olarak ayarlanacak */
+    }
+    .image16,.image17{
+      width: 55%;
+    }
+}
+.image6{
+  height: 500px;
+  margin-top: 5rem;
+  margin-left: 13vw;
+}
+.image20{
+  height: 500px;
+  margin-top: 5rem;
+  margin-left: 15vw;
+}
+
+.image11{
+  min-width: 15vw;
+  height: 500px;
+  margin-top: 5rem;
+  margin-left: 10vw;
+}
+.image12{
+  min-width: 15vw;
+  height: 500px;
+  margin-top: 5rem;
+  margin-left: 11vw;
+}
+
+.banyolar1{
+  margin-left: 8vw;
+}
+
+.image15{
+  height: 370px;
+  margin-top: 5rem;
+  margin-left: 10vw;
+}
+.image16{
+  height: 370px;
+  margin-top: 5rem;
+  margin-left: 14vw;
+}
+.image17{
+  height: 370px;
+  margin-top: 5rem;
+  margin-left: 18vw;
+}
+.image18{
+  height: 400px;
+  margin-top: 6rem;
+  margin-left: 14vw;
+}
+.banyo1{
+  height: 500px;
+  margin-left: 10rem;
+  margin-top: 5rem;
+}
+.banyo2{
+  height: 500px;
+  margin-left: 16rem;
+  margin-top: 5rem;
+}
+.banyo3{
+  height: 500px;
+  margin-left: 17rem;
+  margin-top: 5rem;
+}
+.banyo4{
+  height: 370px;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+.banyo5{
+  height: 370px;
+  margin-left: 9rem;
+  margin-top: 5rem;
+}
+.banyo6{
+  height: 370px;
+  margin-left: 9rem;
+  margin-top: 5rem;
+}
+@media (max-width: 768px) {
+  .banyo1,.banyo2,.banyo3{
+    margin-left: 5rem;
+  }
+  .banyo5{
+    margin-left: 5rem;
+    width: 60%;
+  }
+  .banyo4{
+    margin-left: 5rem;
+    width: 60%;
+  }
+  .banyo6{
+    margin-left: 5rem;
+    width: 60%;
+  }
+
+.image12{
+  margin-left: 1rem;
+}
+  .image16{
+  margin-left: 5rem;
+}
+  .image17{
+  margin-left: 5rem;
+}
+}
+.badres{
+  margin-top: -2rem;
+}
+.adresyazi{
+  margin-left: -6rem;
+}
+.instagram-link {
+  color: black; 
+  text-decoration: none;
+  margin-left: -.4rem;
+}
+.sosyalmedya{
+  margin-left: 45rem;
+  margin-top: 1.2rem;
+  font-size: 24px;
+}  
+.gardrop1{
+  margin-top: 6rem;
+  margin-left: 7rem;
+  height: 300px;
+}
+.gardrop2{
+  margin-top: 6rem;
+  margin-left: 10rem;
+  height: 300px;
+}
+.gardrop6{
+  margin-top: 6rem;
+  margin-left: 14rem;
+  height: 300px;
+
+}
+.gardrop3{
+  margin-top: 6rem;
+  margin-left: 12rem;
+  height: 500px;
+}
+.gardrop4{
+  margin-top: 6rem;
+  margin-left: 14rem;
+  height: 500px;
+  width: 19%;
+
+}
+.gardrop5{
+  margin-top: 6rem;
+  margin-left: 10rem;
+  height: 500px;
+  width: 19%;
+}
+.gardrop6{
+    margin-top: 6rem;
+    margin-left: 10rem;
+    height: 400px;
+    width: 26%;
+  }
+  .gardrop7{
+    margin-top: 6rem;
+    margin-left: 6rem;
+    height: 500px;
+    width: 19%;
+  }
+  .gardrop8{
+     margin-top: 6rem;
+     margin-left: 10rem;
+     height: 500px;
+     width: 19%;
+  }
+    .gardrop9{
+     margin-top: 6rem;
+     margin-left: 13rem;
+     height: 500px;
+     width: 19%;
+  }
+      .gardrop10{
+     margin-top: 6rem;
+     margin-left: 10rem;
+     height: 500px;
+     width: 19%;
+  }
+  .gardrop11{
+    margin-top: 6rem;
+    margin-left: 13rem;
+    height: 500px;
+    width: 19%;
+ }
+ .gardrop12{
+  margin-top: 6rem;
+  margin-left: 10.2rem;
+  height: 500px;
+  width: 19%;
+}
+.gardrop13{
+  margin-top: 6rem;
+  margin-left: 10.2rem;
+  height: 510px;
+  width: 19%;
+}
+.gardrop14{
+  margin-top: 6rem;
+  margin-left: 15rem;
+  height: 400px;
+  width: 43%;
+}
+.americanKapi{
+  font-size: 23px;
+  margin-top: 3rem;
+  margin-left: 43rem;
+}
+.lakeYazi{
+  font-size: 23px;
+  margin-top: 3rem;
+  margin-left: 43rem;
+}
+.american{
+  margin-top: 3rem;
+  margin-left: 8rem;
+  height: 330px;
+}
+.lakeKapi{
+  width: 12%;
+   margin-top: 4rem;
+  margin-left: 13rem;
+  height: 340px;
+}
+.lakeKapi2{
+  width: 12%;
+   margin-top: 4rem;
+  margin-left: 17rem;
+  height: 340px;
+}
+.lakeKapi3{
+   margin-top: 4rem;
+  margin-left: 12rem;
+  height: 340px;
+}
+.lakeKapi4{
+  width: 12%;
+   margin-top: 1rem;
+  margin-left: 12rem;
+  height: 340px;
+}
+.lakeKapi5{
+  width: 12%;
+   margin-top: 4rem;
+  margin-left: 17rem;
+  height: 340px;
+}
+.lakeKapi6{
+  width: 12%;
+  margin-top: 4rem;
+  margin-left: 13rem;
+  height: 340px;
+}
+.lakeKapi7{
+  width: 12%;
+   margin-top: 4rem;
+  margin-left: 17rem;
+  height: 340px;
+}
+.lakeKapi8{
+  width: 18%;
+   margin-top: 4rem;
+  margin-left: 14rem;
+  height: 340px;
+}
+.lakeKapi9{
+  width: 18%;
+   margin-top: 4rem;
+  margin-left: 10rem;
+  height: 340px;
+}
+.lakeKapi10{
+  width: 15%;
+   margin-top: 4rem;
+  margin-left: 12.5rem;
+  height: 350px;
+
+}
+.image21{
+  height: 270px;
+  margin-left: 4.5rem;
+  margin-top: 6rem;
+}
+.image22{
+  width: 27%;
+  height: 270px;
+  margin-left: 4.5rem;
+  margin-top: 6rem;
+}
+.image23{
+  width: 25%;
+  height: 270px;
+  margin-left: 4.5rem;
+  margin-top: 6rem;
+}
+.detayImg{
+  height: 250px;
+  margin-left: 7rem;
+  margin-top: 4rem;
+}
+.detayYazi{
+  margin-left: 42rem;
+  font-size: 25px;
+  margin-top: 3rem;
+}
+.detayImg2{
+  width: 23%;
+  height: 250px;
+  margin-left: 7rem;
+  margin-top: 4rem;
+}
+.detayImg3{
+  height: 350px;
+  margin-left: 9rem;
+  margin-top: 4rem;
+}
+.detayImg4{
+  height: 350px;
+  margin-left: 14rem;
+  margin-top: 4rem;
+}
+.detayImg5{
+  height: 380px;
+  margin-left: 9rem;
+  margin-top: 4rem;
+}
+.detayImg6{
+  width: 17%;
+  height:380px;
+  margin-left: 14rem;
+  margin-top: 4rem;
+}
+.detayImg7{
+  width: 17%;
+  height:380px;
+  margin-left: 8.5rem;
+  margin-top: 4rem;
+}
+.detayImg8{
+  width: 23%;
+  height:350px;
+  margin-left: 11rem;
+  margin-top: 4rem;
+}
+.detayImg9{
+  width: 23%;
+  height:350px;
+  margin-left: 9rem;
+  margin-top: 4rem;
+}
+.detayImg10{
+  width: 23%;
+  height:350px;
+  margin-left: 6rem;
+  margin-top: 4rem;
+}
+.detayImg11{
+  width: 23%;
+  height:350px;
+  margin-left: 8rem;
+  margin-top: 4rem;
+}
+.tikla{
+  margin-left: 72rem;
+}
+.detayImg12{
+  width: 23%;
+  height:350px;
+  margin-left: 9rem;
+  margin-top: 4rem;
+}
+@media (max-width:768px) {
+  .d-block{
+    height:117px;
+  }
+  .d-blockk{
+    height: 240px;
+  }
+  .sosyalmedya{
+    margin-left: 9rem;
+  }  
+  .adres{
+    display: flex;
+  }  
+#telefon2{
+  display: flex;
+  margin-left: .5rem;
+}  
+  .adresyazi{
+    display: flex;
+    margin-left: -3.5rem;
+  }  
+  .badres{
+    margin-left: 1rem;
+  }  
+  .image18{
+    margin-left: 5.5rem;
+  } 
+  .gardrop1{
+    margin-left: 3rem;
+    height: 250px;
+    width: 70%;
+  } 
+  .gardrop2{
+    margin-left: 3rem;
+    height: 250px;
+    width: 70%;
+  } 
+  .gardrop3{
+    margin-left: 5rem;
+    height: 310px;
+    width: 50%;
+  }
+  .gardrop6{
+    margin-left: 3rem;
+    height: 250px;
+    width: 70%;
+  } 
+  .gardrop4{
+    width:70%;
+    margin-left: 3rem;
+  }
+  .gardrop5{
+    width:70%;
+    margin-left: 3rem;
+  }
+  .gardrop7{
+    width: 70%;
+    margin-left: 3rem;
+  }
+  .gardrop8,.gardrop9,
+  .gardrop10,.gardrop11,
+  .gardrop12,.gardrop13{
+    width: 70%;
+    margin-left: 3rem;
+  }
+  .gardrop14{
+    width: 70%;
+    height: 310px;
+    margin-left: 3rem;
+  }
+  .americanKapi{
+    margin-left: 6rem;
+  }
+  .lakeYazi{
+    margin-left: 8rem;
+  }
+  .container{
+    display: flex;
+  }
+
+  .american2{
+    width: 45%;
+    height: 20px;
+    margin-left: 6.5rem;
+  }
+    .american3{
+    width: 45%;
+    height: 270px;
+    margin-left: 6.5rem;
+  }
+
+  .lakeKapi2,.lakeKapi3,
+  .lakeKapi4,.lakeKapi5,.lakeKapi6,
+  .lakeKapi7{
+    width: 45%;
+    margin-left: 6.5rem;
+  }
+
+  .lakeKapi8{
+    width: 58%;
+    margin-left: 5rem;
+  }
+  .lakeKapi9,.lakeKapi10,.lk1,.lk3,.ld3,
+  .ld4,.ld5,.ld6{
+    width: 45%;
+    margin-left: 6.5rem;
+  }
+  .certificate{
+    margin-left: 8rem;
+  }
+  .image21{
+    margin-left: 2rem;
+    height: 180px;
+  }
+  .image22{
+    width: 70%;
+    margin-left: 2rem;
+    height: 180px;  
+  }
+  .image23{
+    width: 70%;
+    margin-left: 2rem;
+    height: 180px; 
+  }
+  .detayYazi{
+    margin-left: 3rem;
+  }
+  .detayImg,.detayImg2,.detayImg3,
+  .detayImg4,.detayImg5,.detayImg6,
+  .detayImg7{
+    margin-left: 3.5rem;
+    width: 70%;
+  }
+  .detayImg8,.detayImg9,.detayImg10,
+  .detayImg11,.detayImg12{
+    margin-left: 2.5rem;
+    width: 80%;
+  }
+}  
+.text{
+  margin-left: 15rem;
+  margin-top: 1rem;
+}
+.americanKapiText{
+  position: absolute;
+  text-align: center;
+  left: 7%;  
+}
+.text1{
+  margin-left: 17rem;
+  margin-top: 1rem;
+}
+.text5{
+  margin-left: 18rem;
+  margin-top: 1rem;
+}
+.text6{
+  position: absolute;
+  left: 4%;
+  margin-top: 1rem;
+}
+.text7{
+  position: absolute;
+  left: 36%;
+  margin-top: 1rem;
+}
+.text8{
+  position: absolute;
+  left: 71%;
+  margin-top: -1rem;
+}
+.text9{
+  position: absolute;
+  left: 16%;
+  margin-top: 1rem;
+}
+.text10{
+  position: absolute;
+  left: 48%;
+  margin-top: 1rem;
+}
+.text11{
+  position: absolute;
+  left: 82%;
+  margin-top: -3rem;
+}
+.text19{
+  margin-left: 20rem;
+  margin-top: .7rem;
+}
+  .image-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.lakeKapilar{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image-item {
+  width: 25%;
+  height: 150px;
+  margin-left: 3rem;
+}
+.lake2 {
+  width: 25%;
+  height: 150px;
+  margin-left: 8rem;
+}
+.lake3 {
+  margin-top: -9rem;
+  width: 25%;
+  height: 200px;
+  margin-left: 70rem;
+}
+
+.image-item1 {
+  width: 25%;
+  height: 150px;
+  margin-left: 3rem;
+}
+.image-item2 {
+  width: 25%;
+  height: 150px;
+  margin-left: 3rem;
+}
+.image-item img {
+  width: 100%;
+  height: auto;
+}
+.lake1 img{
+  width: 70%;
+  height: 400px;
+}
+.lake2 img{
+  width: 70%;
+  height: 400px;
+}
+.lake3 img{
+  width: 70%;
+  height: 400px;
+}
+.image-item1 img {
+  width: 100%;
+  height: auto;
+  margin-top: 25rem;
+  margin-left: 4rem;
+}
+
+.image-item2 img {
+  width: 100%;
+  height: 380px; 
+  margin-top: 25rem;
+  margin-left: 6rem;
+}
+.image-item p {
+  margin-left: 11rem;
+  margin-top: 1rem;
+  text-align: center; /* Metni ortala */
+}
+.lake1 p {
+  margin-left: 11rem;
+  margin-top: 1rem;
+  text-align: center; /* Metni ortala */
+}
+.lake3 p {
+  margin-left: 11rem;
+  margin-top: 1rem;
+  text-align: center; /* Metni ortala */
+}
+.lake2 p {
+  margin-left: 12rem;
+  margin-top: 1rem;
+  text-align: center; /* Metni ortala */
+}
+.americanK{
+  margin-top: 6rem;
+  margin-left: 4rem;
+}
+.american1{
+  margin-top: 6rem;
+  margin-left: 6rem;
+}
+.lakeKapi,.lakeKapi10{
+  margin-top: 4rem;
+  height: 400px;
+  width: 20%;
+  margin-left:9rem;
+}
+.lakeKapi2,.lakeKapi7{
+  margin-top: 4rem;
+  height: 400px;
+  width: 20%;
+  margin-left:-.1rem;
+}
+.lakeYazii{
+  margin-top: 45rem;
+  margin-left: 44rem;
+  font-size: 25px;
+}
+.lakeKapi5{
+  margin-top: 4rem;
+  height: 400px;
+  width: 20%;
+  margin-left:-1.5rem;
+}
+.lakeKapi3{
+  margin-top: 21rem;
+  height: 400px;
+  width: 68%;
+  margin-left:7.7rem;
+}
+.lakeKapi4{
+  margin-top: 21rem;
+  height: 400px;
+  width: 42%;
+  margin-left:12rem;
+}
+.lakeKapi6{
+  margin-top: -33rem;
+  height: 400px;
+  width: 19%;
+  margin-left:70rem;
+}
+.lakeKapi8{
+  width: 85%;
+  margin-left: 7.5rem;
+}
+.text12{
+  margin-left: 14rem;
+  margin-top: 1rem;
+}
+.lakeKapi9{
+  width: 57%;
+  margin-left: 18rem;
+}
+.text13{
+  margin-left: 26rem;
+  margin-top: 1rem;
+}
+.text25{
+  margin-left: 26rem;
+  margin-top: 1rem;
+}
+.text17{
+  margin-left: 26rem;
+  margin-top: 1rem;
+}
+
+.text14{
+  margin-left: 13rem;
+  margin-top: 1rem;
+}
+.text15{
+  margin-left: 20rem;
+  margin-top: 1rem;
+}
+.text20{
+  margin-left: 28rem;
+  margin-top: 1rem;
+}
+.text16{
+  margin-left: 25rem;
+  margin-top: 1rem;
+}
+.lakeKapi12{
+  width: 45%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 21rem;
+}
+.lakeKapi13{
+  width: 60%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 7rem;
+}
+.lakeKapi14{
+  width: 60%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 13.5rem;
+}
+.lakeKapi15{
+  width: 40%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 20rem;
+}
+.lakeKapi18{
+  width: 40%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 20rem;
+}
+.lakeKapi16{
+  width: 65%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 7.5rem;
+}
+.lakeKapi17{
+  width: 50%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 18.5rem;
+}
+.lakeKapi19{
+  width:58%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 14rem;
+}
+.lakeKapi20{
+  width: 40%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 22rem;
+}
+.lakeKapi21{
+  width:50%;
+  height: 350px;
+  margin-top: 3rem;
+  margin-left: 18rem;
+}
+.text21{
+  margin-left: 25rem;
+  margin-top: .5rem;
+}
+
+@media (max-width: 768px) {
+
+.image-item{
+  width: 50%;
+  margin-left: 2rem;
+  height: 290px;
+}  
+.americanK{
+  width: 50%;
+  height: 290px;
+}
+.american1{
+margin-left: 4rem;  
+}
+.americanKapiText{
+  margin-left: 4rem;
+}
+.image-item1{
+  width: 50%;
+  height: 300px;
+  margin-left: 2rem;
+  margin-top: -18rem;
+}
+.text{
+  margin-left: 10rem;
+}
+.image-item2{
+  width: 50%;
+  height: 300px;
+  margin-left: .3rem;
+  margin-top: rem;
+}
+.aimage{
+  margin-top: 9rem;
+}
+.text1{
+  margin-left: 12rem;
+}
+.lakeYazii{
+  margin-left: 8rem;
+}
+.lakeKapi{
+  margin-left: 6rem;
+}
+.lake2{
+  width: 70%;
+  height: 250px;
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+.lakeKapi10{
+margin-top: 16rem;
+margin-left: 6rem;  
+}
+.lakeKapi2{
+  margin-top: 28rem;
+  margin-left: 6rem;
+}
+.lakeKapi5{
+  margin-top: 39rem;
+  margin-left:6rem;
+}
+.lakeKapi3{
+  margin-top: 54rem;
+  margin-left: 7rem;
+  text-align: center;
+}
+.lake3{
+  display: none;
+}
+.lakeKapi4{
+  width: 60%;
+  margin-left: 5rem;
+  margin-top: 5rem;
+}
+.lakeKapi6{
+  width: 60%;
+  margin-left: 6rem;
+  margin-top: 5rem;
+}
+.lakeKapi8{
+  width: 60%;
+  margin-left: 6.5rem;
+  margin-top: 5rem;
+}
+.text12{
+  margin-left: 11.5rem;
+}
+.text11{
+  margin-left: -7rem;
+  margin-top: 1rem;
+}
+.text14,.text15{
+  margin-left: 12rem;
+}
+.text13{
+  margin-left: 13rem;
+}
+
+.lakeKapi9,.lakeKapi12{
+  width: 63%;
+  margin-left: 6.2rem;
+  margin-top: 5rem;
+}
+.lakeKapi13,.lakeKapi14{
+  margin-left: 5rem;
+}
+.lakeKapi14{
+  margin-left: 6.2rem;
+}
+.lakeKapi15{
+  width: 50%;
+  margin-left: 6rem;
+}
+.lakeKapi18{
+  width: 65%;
+  margin-left: 5rem;
+}
+.lakeKapi16{
+  margin-left: 6.3rem;
+}
+.lakeKapi17{
+  width: 60%;
+  margin-left: 6.5rem;
+}
+.text16{
+  margin-left: 11rem;
+}
+.text17{
+  margin-left: 10rem;
+}
+.lakeKapi19{
+  width: 80%;
+  margin-left: 6rem;
+}
+.text19{
+  margin-left: 12rem;
+}
+.text20{
+  margin-left: 10rem;
+}
+.lakeKapi20{
+  width: 60%;
+  margin-left: 5.4rem;
+}
+.lakeKapi21{
+  width: 70%;
+  margin-left: 6rem;
+}
+.text21{
+  margin-left: 12rem;
+}
+.tikla{
+  margin-left: 3.5rem;
+}
+
+
+}
+
+
